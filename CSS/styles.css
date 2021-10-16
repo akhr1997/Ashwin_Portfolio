@@ -23,7 +23,7 @@ body {
   color: white !important;
   font-family: "Ubuntu", sans-serif;
   font-weight: bold;
-  padding-left: 50px;
+  padding-left: 10px;
   font-size: 2rem !important;
 }
 
@@ -400,4 +400,17 @@ i {
   color: black;
   font-family: "oswald", sans-serif;
   font-weight: bold;
+}
+
+.footer {
+  background-color: #1c2d50;
+  height: 60px;
+}
+
+.copyright {
+  padding-top: 20px;
+  text-align: center;
+  color: aliceblue;
+  font-family: "oswald", sans-serif;
+  font-size: large;
 }
