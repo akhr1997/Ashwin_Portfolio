@@ -1,0 +1,119 @@
+.body {
+  background-color: black !important;
+}
+
+#hero {
+  background-image: url("C:\Users\Ashwin Kumar\Desktop\My_Portfoliowp5503055-gradient-4k-wallpapers_cc.jpg");
+}
+.navbar {
+  font-family: "Montserrat", sans-serif;
+  background-color: black;
+  padding: 0px 0px 0px 0px !important;
+}
+
+.navbar-brand {
+  color: white !important;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: bold;
+  padding-left: 50px;
+  font-size: 2rem !important;
+}
+
+.nav-item {
+  padding-left: 20px;
+}
+
+.navbar-nav {
+  padding-right: 50px;
+  font-weight: bold;
+  color: white !important;
+}
+
+.home-body {
+  padding-left: 150px;
+  padding-top: 100px;
+  text-align: center;
+}
+
+.name {
+  font-family: "Sacramento", cursive;
+  font-weight: bold;
+  font-size: 3.6rem;
+}
+
+.hi {
+  font-family: "Sacramento", cursive;
+  font-weight: bold;
+  font-size: 2rem;
+}
+
+.contact-btn {
+  margin-top: 10px;
+  margin-bottom: 40px;
+}
+
+.about-img {
+  width: 20rem;
+  height: 20rem;
+  margin-left: 100px;
+}
+
+.phone-image {
+  width: 100px !important;
+}
+
+i {
+  width: 100px !important;
+}
+
+.git-img,
+.linkedin-img {
+  width: 30px;
+  height: 30px;
+}
+
+.gmail-img {
+  margin-right: 50px;
+  margin-left: 50px;
+  width: 35px;
+  height: 35px;
+}
+
+.home-left {
+  align-items: center;
+}
+
+.top-container {
+  /* ssbackground-color: #f2f2f2; */
+  margin: 50px 50px 100px 50px;
+  padding-bottom: 50px;
+}
+
+.nav-link {
+  color: white !important;
+}
+
+
+body {
+  background-image: url("https://wallpapercave.com/wp/wp5503055.jpg");
+  height: 10px;
+  width: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+use dark/ light mode toggle by design course
+use undraw svg
+use light background
+middle add random svg	
+add to git regularly
