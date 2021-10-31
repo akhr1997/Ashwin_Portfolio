@@ -341,10 +341,11 @@ i {
   text-align: center;
   font-family: "Quattrocento", sans-serif;
   color: white;
-  font-size: 3rem;
+  font-size: 2.8rem;
   line-height: 1;
   border-bottom: 50px;
   margin: 0px !important;
+  text-decoration: underline 2px;
 }
 
 .aboutme-desc {
@@ -354,6 +355,7 @@ i {
   font-size: 23px;
   line-height: 1.5;
   padding-bottom: 40px;
+  text-align: justify;
   /* text-align: center;
   font-family: "Quattrocento", sans-serif;
   color: white;
@@ -413,4 +415,8 @@ i {
   color: aliceblue;
   font-family: "oswald", sans-serif;
   font-size: large;
+}
+
+ol {
+  list-style-type: square;
 }
