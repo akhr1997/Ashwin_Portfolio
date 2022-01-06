@@ -161,6 +161,9 @@ i {
 
 .word-desc {
   text-align: justify;
+  /* padding-bottom: 10%; */
+  margin-bottom: 0%;
+  border-bottom: 0;
 }
 
 .exp-heading {
@@ -419,4 +422,34 @@ i {
 
 ol {
   list-style-type: square;
+}
+
+.card1 {
+  /* padding: 0%; */
+  margin-bottom: 0px;
+  /* border: 0ch; */
+}
+
+.card2,
+.card1 {
+  font-size: 20px;
+  margin-top: 50px;
+}
+
+.card-header {
+  font-size: 22px;
+}
+
+.time1 {
+  /* padding-left: 312px; */
+  padding-left: 470px;
+}
+
+.time2 {
+  padding-left: 570px;
+}
+
+.accenture {
+  height: 80px;
+  width: 150px;
 }
