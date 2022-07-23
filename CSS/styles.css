@@ -50,21 +50,30 @@ body {
 .name {
   /* font-family: "Sacramento", cursive; */
   font-family: "oswald", sans-serif;
-  font-size: 6rem;
+  font-size: 4rem;
   line-height: 1;
-  color: white;
+  /* color: white; */
+  color: #fec576;
 }
 
 .hi {
   font-family: "Quattrocento", sans-serif;
-  font-size: 3rem;
+  font-size: 2rem;
   line-height: 1;
-  color: #fec576;
+  /* color: #fec576; */
 }
 
 .SE-WD {
   /* font-family: "Montserrat", sans-serif; */
   font-family: "Quattrocento", sans-serif;
+  /* color: #fec576; */
+  line-height: 1;
+}
+
+.SE-WD2 {
+  /* font-family: "Montserrat", sans-serif; */
+  font-family: "Quattrocento", sans-serif;
+  color: #fec576;
 }
 
 .contact-btn {
@@ -369,6 +378,12 @@ i {
   /* width: 50%; */
   /* border: 3px solid green; */
   /* padding: 10px; */
+}
+
+@media only screen and (max-width: 600px) {
+  .aboutme-desc {
+    font-size: 10px;
+  }
 }
 
 .skill-icon {
