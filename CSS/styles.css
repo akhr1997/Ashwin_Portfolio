@@ -382,7 +382,8 @@ i {
 
 @media only screen and (max-width: 600px) {
   .aboutme-desc {
-    font-size: 10px;
+    font-size: 13px;
+    text-align: justify;
   }
 }
 
