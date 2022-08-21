@@ -175,6 +175,14 @@ i {
   border-bottom: 0;
 }
 
+@media only screen and (max-width: 600px) {
+  .word-desc {
+    font-size: 1px;
+    /* text-align: justify; */
+    line-height: 120%;
+  }
+}
+
 .exp-heading {
   text-align: center;
   /* font-family: "Montserrat", sans-serif; */
@@ -361,13 +369,13 @@ i {
 }
 
 .aboutme-desc {
-  /* text-align: center; */
+  text-align: center;
   font-family: "Quattrocento", sans-serif;
   color: white;
   font-size: 20px;
   line-height: 1.5;
   padding-bottom: 40px;
-  text-align: left;
+  text-align: justify;
   /* text-align: center;
   font-family: "Quattrocento", sans-serif;
   color: white;
@@ -382,7 +390,7 @@ i {
 
 @media only screen and (max-width: 600px) {
   .aboutme-desc {
-    font-size: 15px;
+    font-size: 17px;
     text-align: justify;
     line-height: 120%;
   }
@@ -412,6 +420,12 @@ i {
   font-family: "Quattrocento", sans-serif;
   font-size: 30px !important;
 }
+
+/* @media only screen and (max-width: 600px) {
+  .allskills {
+    font-size: 15px !important;
+  }
+} */
 
 .top-div {
   padding-bottom: 20px;
