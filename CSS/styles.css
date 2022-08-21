@@ -177,7 +177,7 @@ i {
 
 @media only screen and (max-width: 600px) {
   .word-desc {
-    font-size: 1px;
+    font-size: 15px;
     /* text-align: justify; */
     line-height: 120%;
   }
